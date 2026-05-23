@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Boyuan Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Sport Medicine | American Football | Training Load | Machine Learning"
+  location         : "Tsukuba,Ibaraki,Japan"
+  employer         : "University of Tsukuba"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hakugen1997@gmail.com" 
 
   # Academic websites
   academia         : # URL
